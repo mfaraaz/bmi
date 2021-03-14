@@ -1,4 +1,4 @@
-# custom_widget_demo
+# BMI Calculator
 
 A new Flutter application.
 
